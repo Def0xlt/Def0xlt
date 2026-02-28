@@ -15,6 +15,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [test](https://dev.to/def0xlt/test-47pj)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
