@@ -4,11 +4,11 @@
 
 - 📫 How to reach me **arindam.bhattacharjee88@gmail.com**
   
-- 👨‍💻 All of my projects are available at **[https://medium.com/@defxlt](https://medium.com/@defxlt)**
+<!--- 👨‍💻 All of my projects are available at **[https://medium.com/@defxlt](https://medium.com/@defxlt)**
 
 - 📝 I regularly write articles on **[https://medium.com/@defxlt](https://medium.com/@defxlt)**
 
-- 📄 Know about my experiences **[https://medium.com/@defxlt](https://medium.com/@defxlt)**
+- 📄 Know about my experiences **[https://medium.com/@defxlt](https://medium.com/@defxlt)** -->
 
 - 💼 **Connect with my professional experience** on [LinkedIn](https://linkedin.com/in/arindam--bhattacharjee)
   
