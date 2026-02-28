@@ -16,6 +16,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [test](https://dev.to/def0xlt/test-47pj)
+- [MCPs Demystified: The Bridge Between AI and Your Data](https://medium.com/@defxlt/mcps-demystified-the-bridge-between-ai-and-your-data-3619cde3519b?source=rss-99e088f5c1dd------2)
+- [QR Codes Gone Rogue: The Rise of ‘Quishing’ and How It’s Turning Your Smartphone Against You](https://medium.com/@defxlt/qr-codes-gone-rogue-the-rise-of-quishing-and-how-it-s-turning-your-smartphone-against-you-29b3f056a945?source=rss-99e088f5c1dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
