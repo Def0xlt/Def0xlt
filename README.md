@@ -1,4 +1,4 @@
-# Hi 👋, I'm Arindam
+# Hi 👋, I'm Ari
 
 ### I like to build and break things with code
 
